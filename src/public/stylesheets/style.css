@@ -1,1 +1,17 @@
 /* style.css */
+
+body {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+.card {
+    display: inline-block;
+    border-radius: 25px;
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+}
