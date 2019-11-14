@@ -1,0 +1,24 @@
+{
+  "name": "kshoes-homework06",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0480-001-fall-2019/Kshoes-homework06.git"
+  },
+  "author": "Kshoes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-001-fall-2019/Kshoes-homework06/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0480-001-fall-2019/Kshoes-homework06#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-static": "^1.2.6",
+    "path": "^0.12.7"
+  }
+}
